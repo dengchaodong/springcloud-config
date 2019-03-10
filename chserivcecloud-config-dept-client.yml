@@ -53,7 +53,7 @@ spring:
   datasource:
      type: com.alibaba.druid.pool.DruidDataSource     #当前数据源的类型阿里云的
      driver-class-name: com.mysql.jdbc.Driver       #Mysql的驱动包org.git.mm.mysql.Driver
-     url:  jdbc:mysql://localhost:3306/cloud2    #连接数据库的名称
+     url:  jdbc:mysql://localhost:3306/cloud1    #连接数据库的名称
      username: root
      password: Stormdcd3@@@
      dbcp2:
